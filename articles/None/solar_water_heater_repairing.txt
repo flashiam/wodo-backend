@@ -1,0 +1,63 @@
+<!-- wp:paragraph -->
+<p>Using Solar Water Heater is an amazing thing for the environment. Solar water heater repairing is not daily work. Solar thermal water heaters typically require minimal maintenance. However, it is important to inspect your Solar Water Heater from time to time to make sure all components are in good condition and to keep the system working optimally.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Periodic maintenance of solar water heaters is necessary every 3 to 5 years. Check for any leakage in the pipes, tank, panels, etc. as leakage is very common in these areas. Also, you need to check for loose wire connections and wires. Ensure that the panels are kept dust-free. If you find any crack in the insulation, see to it and replace them immediately.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The most common problems which we see in the Solar water heater are described below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Solar Water Heater Repairing: Leaking.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Leaking is the most general problem of Solar Water Heater. If you find the water is leaking from the roof (and it is not raining) the most common cause is the leaking temperature and pressure relief valve on the solar heating system. Do not try to repair the T&amp;P valve; replace it with the brand new valve which will have the same characteristics as the faulty one. Or replace the seal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Another reason of water leaking from the solar water may be because, &nbsp;if the piping bursts due to freezing or the excessive pressure within the system. Before you do any repairs or call the technician, isolate the solar panel by turning it off. Check out the piping fittings, it might leak at connections and during the thermal expansion. Tighten the loose connections</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Not enough hot water.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is also a very general problem we get in Solar Water heaters. First, Check for the <a href="https://energyeducation.ca/encyclopedia/Solar_panel_orientation#:~:text=For%20further%20reading-,Direction,direct%20light%20throughout%20the%20day." target="_blank" rel="noreferrer noopener">solar panel orientation</a> to reduce the shading from trees, orient it properly to face the south, and provide the recommended tilt. Is the panel size big enough? Clean the dirty glazing. After that, again check for hot water.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Check are the sensor wires if there is no hot water in the water heater. Connect them properly if they are not. Also, check the faulty sensors and controllers, loose connections, and shorted sensors. Always use the system schematic, check the wiring, clean and seal exposed areas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Solar Panel Problems</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Broken glass is the major problem of the solar panels. There are two solutions here; one is just to replace a glass, and the other is to replace the whole solar panel. In both cases the cost is high. If replacing the glass, make sure to order the strong tempered glass with the right size for proper fit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If the absorber paint/coating deteriorates you might want to repaint it, but keep in mind to use the paint which has excellent properties, resistant to heat and UV exposure, for example, and that is applicable for such use.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Noisy solar water heater.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Knocking noise in the storage water tank is the problem when the solar high limit control is set low, and while the sun is still shining outside, the pump turns OFF. Water in the panel pipes is boiling sending steam into the water tank.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The solution for the problem includes adding a water tank or installing the tempering valve to limit the water temperature or setting the high limit control higher and installing a controller that will force the pump running longer and cool the tank down.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>These are the most common problems we found in any Solar Water Heater. If you can repair your heater using this article, it is great. And, if you can't do it then call a WODOworker for your work. He/she will do it for you.</p>
+<!-- /wp:paragraph -->

@@ -11,10 +11,11 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 """
 
 from pathlib import Path
-import os
+import os.path
+import sys
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
+PROJECT_ROOT = os.path.normpath(os.path.dirname(__file__))
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
@@ -26,6 +27,12 @@ SECRET_KEY = 'l(2*qejpi!fw%tp!3483ehn93e6kb7qv42oh(+tt(m6t_n(@+i'
 DEBUG = True
 
 ALLOWED_HOSTS = ['159.89.165.193', 'wodoworker.com', 'api.wodoworker.com']
+CORS_ORIGIN_ALLOW_ALL = True
+CORS_ORIGIN_WHITELIST = (
+    'http://localhost:8100',
+
+)
+
 
 
 # Application definition
@@ -37,16 +44,20 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'wodo',
+    'website',
+    'support'
 ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
+    # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
 ROOT_URLCONF = 'wodoApi.urls'
@@ -83,10 +94,10 @@ WSGI_APPLICATION = 'wodoApi.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'bj5b70pixxqsgqliasbu',
-        'USER': 'u52xcje786tppmjpafy8',
-        'PASSWORD': 'wbJyH9YdoV1p9zw48auw',
-        'HOST': 'bj5b70pixxqsgqliasbu-postgresql.services.clever-cloud.com',
+        'NAME': 'bdkdjkmyn0lhhvshbg9q',
+        'USER': 'ugjtwyvn7vtpbpu3sdob',
+        'PASSWORD': 'W1x3npG3FjjnmRKpyUwb',
+        'HOST': 'bdkdjkmyn0lhhvshbg9q-postgresql.services.clever-cloud.com',
         'PORT': '5432',
     }
 }
@@ -128,6 +139,30 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
+
 STATIC_URL = '/static/'
-#STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+#STATIC_URL = '/static/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'articles/')
+
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
+# Settings for Exotel API
+
+# Get your SID and token from https://my.exotel.com/apisettings/site#api-credentials
+
+'''
+sid     - this represnet your exotel sid
+key     - this represent your exotel key
+token   - this represent your exotel token
+from_no - agent number    (the person who is making a call)
+to      - customer number (the person to whom the call is made)
+'''
+sid         = 'specsoidsystems1'                                           
+key         = '0a188712b647ae8a2312278019341b396e8e27c22aa92916'                                           
+token       = '84dd6ad2ca3e6bb2886d0307492526dbcfeae0bd52759bf5'         
+smsurl      = 'https://api.exotel.in/v1/Accounts/<exotel_sid>/Sms/send.json'
+callurl     = 'https://api.exotel.in/v1/Accounts/specsoidsystems1/Calls/connect.json'
+from_no     = 'XXXXXXXXXXX'
+to          = 'XXXXXXXXXXX'
+url         = "http://my.exotel.com/<exotel_sid>/exoml/start_voice/<flow_id>", 

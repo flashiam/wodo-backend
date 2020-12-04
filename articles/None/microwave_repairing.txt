@@ -1,0 +1,38 @@
+You are sitting at your dining table with your family and waiting for a delicious Pizza. And after a few minutes, you get to know that your microwave is not working properly. And your microwave required repairing. Now you have two choices if you have to repair it yourself, or you have to call a professional wodoworker, for your microwave repairing, who can do it within a minute.
+
+If you are going with the first option, here are some guidelines, which will help you in repairing your microwave.
+
+First, you have to identify the problem and then find the solution for it.
+Here are some normal problems and their solutions.
+
+Microwave Door Repairing.
+Sometimes, we hit the door of the microwave hard, and after that, it starts creating problems.
+If the door on your microwave oven doesn't close properly, then it may have a problem with the door latch assembly.
+The door latch assembly usually consists of two hooks. These hooks stick up from the door and fit into the door switch holder that is mounted onto the frame of the microwave. Unplug the unit and remove the inner door panel to access the door latch. Remove the defected and attached the new one.
+
+Microwave Doesn't Turn On.
+If your microwave oven won't start, you may have a problem with a door switch or the ceramic fuse.
+
+Sometimes it is possible that when a door switch fails, the display and controls may appear normal. but the oven won't operate. You have to unplug the unit and remove the cabinet. The interlock switches will have wires attached to the terminals that are marked common and normally open. Check the switches for continuity using a multi-meter. If there is no continuity, the switch will need to be replaced.
+
+If the problem is related to the ceramic fuse, then you have to check for it. This is located inside of the cabinet near the entry point of the power cord. Most importantly, unplug the cord before attempting any repairs. Check the fuse for continuity with a multi-meter. If the fuse failed when opening or closing the door, check for a shorted door switch, monitor switch, or improper adjustment of the door latch assembly.
+
+Microwave Runs But Will Not Heat
+This is the most common, but it is a repairable problem.
+This problem happens because of the microwave's high voltage diode or magnetron.
+
+The high voltage diode is located near the magnetron and the high voltage capacitor so, access will require the removal of the cabinet. Disconnect the power and also discharge the high voltage capacitor to prevent an electrical shock. You can then test the diode for continuity with a multi-meter. Diodes are polarity specific and, you should see low resistance with the meter leads in one direction and higher resistance when the meter leads are reversed.
+
+If the high voltage diode shows low resistance in both directions or shows no continuity at all, then it will need to be replaced. If you find the high voltage diode tests okay. Now, check the power in the circuit. This is a high voltage circuit and further testing should only be performed by a qualified technician.
+
+Microwave repairing when is makes Unusual noise.
+Noisy microwave can indicate  many number of issues. The problem could be anythinf from the stirrer motor or to the magnetron.
+
+Most microwave ovens with a glass tray use a motor driven coupler to turn the tray or a roller guide. The motor is normally held in place with a retaing screw and will have two wires attached to is as well. If the motor is makin a grinding noise it will need to be replaced.
+
+If your microwave is making an unusual or loud humming noise, you may have a problem with the magnetron. Remove the cabinet and disconnect the power and also discharge the high voltage capacitor. Now, disconnect the two attached wires and the mounting screws to remove it. You should also check the high voltage diode to verify that it is not shorted before condemning the magnetron.
+
+Unusual noise is a very general problem and we recommend you to call an expert and let them check the problem. 
+
+After reading this article, if you still think that microwave repairing is a tough task, then you can click here and call a professional technician. They will finish your work at very reasonable rates.
+

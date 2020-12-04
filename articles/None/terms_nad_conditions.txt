@@ -1,0 +1,32 @@
+<!-- wp:paragraph -->
+<p>WODO provides a sophisticated platform that allows to search workers and work seekers to search for work. The following are terms and conditions for services provided by WODO.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2><strong>Terms and Conditions</strong>&nbsp;</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li><strong>WODO is a free platform. WODO won’t charge any commission for the services provided except for communication services.&nbsp;</strong></li><li><strong>Nor the workers will be asked of commission for getting work neither the customers will have to pay any commission for hiring workers.</strong></li><li><strong>&nbsp;WODO will not be responsible for any disputes among workers and customers.</strong></li><li><strong>&nbsp;Call charges will be as stated - ₹2 for connecting, initial minute and ₹0.5 for following minutes. 18% GST will be charged additionally. Customers will have to recharge their wallet for using call services.&nbsp;</strong></li></ul>
+<!-- /wp:list -->
+<!-- wp:heading -->
+<h2><strong>Mode of Conduct</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li><strong>Customers are bound to use basic etiquette and manners while talking to workers and vice versa.&nbsp;</strong></li><li><strong>Customers are warned not to pay full fees before completion of work. Otherwise, WODO will not be responsible for any type of loss.&nbsp;</strong></li><li><strong>Customers should avoid negotiations as the workers will be provided based on your budget.&nbsp;</strong></li><li><strong>Customers should not force workers for doing overtime. You should not push the worker to do the work if he is not able to do so.&nbsp;</strong></li></ul>
+<!-- /wp:list -->
+<!-- wp:heading -->
+<h2><strong>Dispute</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>WODO is just a communicator-cum-aggregator platform for workers and for those who are willing to hire workers. WODO does not make any warranties, claims or promises to the fitness or suitability of its programmes used by the customers or workers WODO will not liable for any kind of quality control or legal regulations regarding workplace, workers health and potential health vulnerabilities of workers. Customers have to choose workers according to their requirements. WODO will only be providing best search results based on requirements.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2><strong>Refund Policy</strong>&nbsp;</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>WODO will be providing services free of cost</strong>,<strong> will not ask for commission in any form either from customers or workers. WODO will charge for calling services only.</strong></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p><strong>Rating is the identification of worker. Ratings &amp; review reveal various <a rel="noreferrer noopener" href="http://wodoworker's best practices" target="_blank">aspects of the workers</a> such as, his skills, past work experience (worker’s history), experience of customers with corresponding worker etc. You can give rating &amp; review to workers after completion of work based on following points.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Basis of Rating &amp; Review to the Worker.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li><strong>The efficiency of work</strong>.<strong> :</strong> If you think that is a worker is not working efficiently, then give them a suitable rating.</li><li><strong>The quality of work</strong>.<strong> :</strong> If you think the quality of the work done by the worker is good,  give him/her a good rating. And, if you think that work done by them is not up to the mark then give them a bad rating.</li><li><strong>The fineness of work</strong>.<strong> :&nbsp;</strong>If you think that worker did very fine and nice work, then mention that in the reviews section.</li><li><strong>Your personal experience with worker</strong>. <strong>: </strong>You can also give the rating based on your personal experience with the worker.</li><li><strong>Workers promptness regarding work and time</strong>. <strong>:</strong> If the quality of doing work quickly and without delay, or at the arranged time of worker is good. Then mention this in the review section.</li><li><strong>Work satisfaction. :&nbsp;</strong>You are satisfied or unsatisfied with the work. Remark them in the review section and give rating based on these factors. </li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>You should rate workers based on the above mentioned points and their satisfaction with the work and worker. You should consider various aspects while rating. Like precision of work, worker’s etiquette, his professionalism, his punctuality and promptness. You can rate on the scale of five star as following.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Each star has a meaning.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>One-star (Poor), Two-stars (Below Average), Three-stars (Average), Four-stars (Good), Five-stars (Excellent).&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>You can also add your review in addition to the rating. You can share your experience with worker by writing a review. These reviews will help other customers by making it easy for them to select workers. More importantly, your ratings and reviews will help workers to find work easily. Indirectly, this rating and review system will mutually benefit both the customers, and workers easing the hiring process for customers and aiding workers to find work easily.</strong></p>
+<!-- /wp:paragraph -->

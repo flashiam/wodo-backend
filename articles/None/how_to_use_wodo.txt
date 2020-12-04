@@ -1,0 +1,40 @@
+<!-- wp:heading {"level":3} -->
+<h3>Basic guide to use Wodo:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Find Your Need:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Firstly, and most importantly, you must have work to accomplish and, for that, you will require a worker/s. That work is your requirement. And that requirement can be accomplished with the help of WODO.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":4} -->
+<h4>Search the Worker:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Now, with your requirement in mind, you just need to search for worker/s in your budget. WODO will provide results in your budget parameters. In other words, you will get the best workers of your price range. Search results will obligatorily be in line with your economics. After that, you need to go through the displayed results and select a befitting worker. For this, you must check the worker’s profile, ratings, reviews, and work history to have an in-depth idea about the worker. </p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":4} -->
+<h4>Call the WodoWorker:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Now, by selecting the specific worker fitting your requirements you have to contact and hire him/her via in-app calling (₹2 for the first min and ₹0.5 for further minutes) Now you can decide the workplace and schedule of work on call. Selected worker will complete your work at the decided workplace in the fixed time frame.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In this way, you can satisfy your requirement with WODO. Suppose, you need to hire a worker, you need to search on WODO. You have to search, for whatever work you require a person such as, plumber, electrician, a repairman, maid, painter, artisan, gardener, etc., and you will get results in your confined budget.You can view the worker’s profile and history of past works. </p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Then, using the in-app calling feature, you can to talk to the worker and set the schedule and workplace of work. If you are satisfied with the worker on call and everything’s OK, you can hire him/her. And if the worker is not up to the mark, you are free to choose another worker from the search results. When you are done with the selection procedure, the worker will complete his/her work. After completion of this work, the worker’s profile will show this work in his history for other customers to help. You can also <a href="http://hoe to rate your worker" target="_blank" rel="noreferrer noopener">rate and review the corresponding worker</a> in the app.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Example:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For example, if you are looking for an electrician for the renovation of your household lighting and wiring, you have to open WODO. Suppose, you searched for electricians. You will get search results. Choose whoever electrician you prefer. Call him/her using the in-app call service. Hire him and you are done. Pay him after the work is complete. It is that simple.</p>
+<!-- /wp:paragraph -->

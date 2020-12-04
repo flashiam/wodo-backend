@@ -1,0 +1,47 @@
+<!-- wp:heading -->
+<h2>1. Hyperlocal Category App</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>WODO is your one stop solution for multiple level working and hiring problems. We, at WODO, will help you find workers and work at your local level in pocket friendly budget. </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>At<a href="https://en.wikipedia.org/wiki/Hyperlocal"> hyperlocal level</a>, we guarantee you work and workers in your locality. No need to go other than your local places for work. Find work and hire workers at your fingertips with WODO.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2><strong>2. Multiple Selection Algorithm</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>WODO is pre-programmed with Multiple Selection Algorithm which provide customers with filter to search employees according to their skills and knowledge and show results accordingly. You don’t need to go through all the searching procedures, we have done it for you. You won’t have to worry about your budget. </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Here we provide customers with satisfaction in, whatever budget they have. Customers can hire skilled workers according to their requirements in favorable budget. You are paying for what you need. And it is our identity that you will pay for what you need.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2><strong>3. Features</strong> of wodo</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>WODO is the easiest way for customers to search and hire workers at fingertips. WODO is packed with Customer-friendly features. We have made our app simplistic to be easily used by customers.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><em>Customers, if hired workers earlier, can save the workers details to help them get referred in the future. We have made it easy for our customers, so that, they need not worry about future recruitment.&nbsp;</em></li><li><em>Wants to know about the worker, look at their history and how many people saved them for the next work.</em></li><li><em>communicate with workers with full privacy and without sharing your personal details with our in-app communication features.</em></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul><li><strong>4. Call rates</strong>&nbsp;</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>While we are providing you with wallet, we also provide a budget friendly one on one call service at a minimal call rates. Call rates will be as follows.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>₹2 for the initial minute and ₹0.5 for subsequent minutes. You won’t need to share your personal details with anyone as you will be using in-app communication. Your personal information is safe with us.&nbsp;</strong></p>
+<!-- /wp:paragraph -->

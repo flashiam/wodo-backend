@@ -1,0 +1,55 @@
+<!-- wp:paragraph -->
+<p>Replacing a light switch is a very hectic and risky task. We choose to replace our light switches because if its not working properly or we just want to change it (because this is your house and you can do whatever you want to do).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But before replacing the light switch we should understant its functioning and how everything is connected to each other. Because its a risky task though and I don't think you want to die just because of a light switch, and if you died just because of it than what you gonna tell your friends when you meet up in the heaven).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Step 1: Stop current supply to the light switch.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Stopping the current supply to the switch is very important. Turn off the MCB or remove the fuse box to stop the power supply from the circuit and at least check it twice that the current supply is off. (Check the current by turning on and off and by using voltage tester).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Step 2: Remove switch.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After checking the current supply, we are ready to take out the defective switch. Firstly, remove the plate from the switchboard by using a flathead screwdriver. After removing the switchplate, once again check the current supply by using a voltage tester. (SAFETY FIRST). Take out switches from the switchplate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Step 3: Remove switch from old wires.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After removing switches from the switchplate, loose the screws by using the screwdriver, to which wires are attached. But before removing the wires, give little attention to wire colors and where they had been attached on the old switch. In other words, remember, wire place in the switch. ( Try not to touch the wires, use a needle or plier to take out the wire from the old switch).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Step 4: Replacing the switch.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After removing the old Switch from the wires and the board, now we have to attach a new switch to it. Then take the new switch and loose its screws using a screwdriver then attach the wire at the right place (same as the old switch) and try to create a loop when to attach the wire with the switch. Tighten the screw and check it.&nbsp;<strong>Keep eyes on wires and don't let them touch each other.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Step 5: Fixing the light switch </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After replacing the light switch, we have to fix a new switch on the board. And after attaching the wires we can fold excess wire and compress it into the electrical box. Keep your hands calm while doing that otherwise wires may loose or break. Tighten the screws to secure the switch to the box, and fit the switchplate into the switch box. (TADA, you just replaced a light switch).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br>We recommend you don't do this type of electric work if you don't have enough knowledge, because we care about you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br>If you don't have time for this kind of works, then click here to visit our website and hire a worker, at a very reasonable price.</p>
+<!-- /wp:paragraph -->

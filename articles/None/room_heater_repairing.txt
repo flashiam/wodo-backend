@@ -1,0 +1,59 @@
+<!-- wp:paragraph -->
+<p>A room heater is the most important equipment at the time of winters. The room heater is like the best friend in the time of winters. And if it does not respond in winters, then this is going to be very tough for you. And, if your Room Heater didn't get a quick repairing then, cold will catch you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you think this is going to be tough for you, then call a professional wodoworker.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Before repairing a Room Heater you have to determine that the circuits or resisters are the sources of the problem. After that, simply use the <a href="https://www.amazon.com/Best-Sellers-Industrial-Scientific-Soldering-Guns/zgbs/industrial/3207125011" target="_blank" rel="noreferrer noopener">soldering gun</a> to heat the contacts and remove them. Replace them with parts that meet the voltage standard for their job. This will prevent you from having issues with short-circuiting in the unit. If this is the only problem you could find, put the case back together and turn it on, check the electric heater fan for warm air.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Tools required:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Voltage regulator</li><li>Screwdriver or hex driver</li><li>Replacement regulator</li><li>Soldering gun and solder</li><li>Wire caps</li><li>Screwdrivers</li><li>Wire clamps</li><li>Adjustable pliers</li><li>Wire stripping tool</li><li>Long-nose pliers</li><li>Multi-meter</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Replacing the Room Heater Coil.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the most common problem in Room Heaters. Make sure that you use good quality of Coils. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Before starting, make sure that the power is cut-off to avoid electric shock or short circuiting. Find the electrical connections on the coil and remove them, and then dismount the coil. Install the new coil carefully and close the case up. Be sure to reconnect everything properly before turning it on.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Repairing Motor's Brushes and Mechanical Parts in Room Heater.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you see any spark coming from the Heater when the motor is moving, then it is a sign that the brushes are damaged and need to be replaced. The first step to repair this is to check that the motor has enough oil. And check that motor doesn't smell bad. If the motor doesn't smell good, then this means that the problem is in the motor. Here, you need to replace the motor.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Electric Continuity.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Attach one of the Multi Mate's probes to the motor's common lead and test the motor for its electrical resistance. If the electric resistance is zero or infinite, it means that there is a short circuit and that the motor is not connected properly. This is a risky task, be aware.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Circuit Board for Room Heater Connection.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can test these circuits while the unit is on with a voltage meter and locate any breaks in the system. If you have experience with electronics and soldering, you can generally repair these types of breaks by adding a wire connection or repairing the one that is broken. Most modern heaters have replacement parts that can be ordered directly from the manufacturer and replaced as with any electronic device.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>These are the most common problems which we face in our Room Heaters. If you can repair your heater by reading this article, amazing. If you think it's tough to repair your Room Heater then call a technician from WODO. He/she will do it for you.</p>
+<!-- /wp:paragraph -->

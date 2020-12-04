@@ -1,0 +1,39 @@
+<!-- wp:heading -->
+<h2>What WODO Really is?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Bridge between customers &amp; wodoworkers</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>We have made a simple but powerful step with WODO towards bridging the gap between Recruiters and workers. This is the first platform connecting workers with recruiters at Hyperlocal level. We, at WODO, are providing you with employees fitting your requirements while keeping your budget in account. You don’t need to search elsewhere, WODO is your one step solution regarding hiring and working within your locality. You get the wodoworkers with skills, knowledge and experience perfect for your work. The most significant feature of app is that all the workers we will be providing will be from your geographical area i.e. your city and nearby area, so you don’t need to search elsewhere.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"align":"center"} -->
+<h2 class="has-text-align-center">Work with us </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>WODO is a platform that helps people to finish their work quickly and cheaply. And we are trying to take it to another level. We don't want to be the center of everything, that's why we are adding something for you.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>By using WODO, you can solve your problems easily, but when you work with us, you can help others, and also you can make money.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>We give you the privilege to add workers to this platform. And by doing so, <a href="http://work with us form" target="_blank" rel="noreferrer noopener">you earn calling money</a>.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Other than making money, you are helping a person in finding work.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>*T&amp;C applied.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":99,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://wodoworker.com/wp-content/uploads/2020/11/download-1.jpg" alt="" class="wp-image-99"/><figcaption>bridge b/w customer and worker</figcaption></figure>
+<!-- /wp:image -->
